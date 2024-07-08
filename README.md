@@ -5,4 +5,5 @@ Plant Co. Performance Report is an interactive visual report showing key busines
 Users can interact with any of the value points in the dashboard, and it will show the corresponding values through graphs, numbers, and time periods.
 
 Download the Power BI file (.pbix) to fully interact with the dashboard.
-![Plant Co  Performance Report Sample](https://github.com/dannyjkim37/dannyjkim37/assets/160215128/6b8356d6-5c6b-41b1-b6d9-ce0c7fc65e58)
+![Plant Co  Performance Report](https://github.com/dannyjkim37/Power-BI/assets/160215128/95ee257e-4ded-4aa3-8909-ea9fb5efd986)
+
